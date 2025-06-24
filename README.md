@@ -9,6 +9,7 @@ Para ver la práctica, sólo hay que descargar los archivos y ejecutar Live Serv
 ### EXTRA
 
 Vamos a modificar algo para hacer otro stash jajaja
+Stahs 2 de hannah aqui
 
 ```javascript
 console.log("Resta:", res);
